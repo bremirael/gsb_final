@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src" />
+	<classpathentry kind="src" path="test" />
+	<classpathentry exported="true" kind="lib"
+		path="LIB/mysql-connector-java-5.1.40-bin.jar" />
+	<classpathentry exported="true" kind="lib"
+		path="LIB/swing-layout-1.0.4.jar" />
+	<classpathentry exported="true" kind="lib"
+		path="LIB/swingx-all-1.6.4.jar" />
+	<classpathentry exported="true" kind="con"
+		path="org.eclipse.jdt.launching.JRE_CONTAINER" />
+	<classpathentry kind="output" path="bin" />
+</classpath>
